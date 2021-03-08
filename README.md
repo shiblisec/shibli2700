@@ -7,7 +7,7 @@
 </p>
 <h3 align=center><em>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is <b>Mohd Shibli</b></em></h1>
 <p align=center>
-  <em> I am a Developer and a Security Researcher, my field of expertise includes <code><b>Web Dev/Pentesting, Exploit Development, VAPT, Red Teaming etc.</b></code> I am currently working in Cloud Automation and Architecture in <b>VMWare Tanzu</b></em><br /><br />
+  <em> I am a Developer and a Security Researcher, my field of expertise includes <b><code>Web Dev/Pentesting</code>, <code>Exploit Development</code>, <code>VAPT</code>, <code>Red Teaming</code></b> etc. I am currently working in Cloud Automation and Architecture in <b>VMWare Tanzu</b></em><br /><br />
   <img src=https://img.shields.io/badge/lang-python-f39f37 align=center /> <img src=https://img.shields.io/badge/lang-BASH-65FF33 align=center /> <img src=https://img.shields.io/badge/lang-PHP-2A9CCF align=center /> <img src=https://img.shields.io/badge/Penetration-testing-FE170C align=center />
 </p>
 
