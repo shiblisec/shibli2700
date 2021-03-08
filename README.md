@@ -3,9 +3,10 @@
   <a href= "https://www.linkedin.com/in/mohd.shibli/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
   <a href= "https://medium.com/@d3f4u17"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
   <a href= "https://twitter.com/_d3f4u17_"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
+  &nbsp;<img width=200 src="http://www.hackthebox.eu/badge/image/95622" alt="Hack The Box">
 </p>
 <p align=center>
-  <em>This is <b>Mohd Shibli</b>, I am a Developer and a Security Researcher, my field of expertise includes <code><b>Web Dev/Pentesting, Exploit Development, VAPT, Red Teaming etc.</b></code> I am currently working in Cloud Automation and Architecture in <b>VMWare Tanzu</b></em><br />
+  <em>This is <b>Mohd Shibli</b>, I am a Developer and a Security Researcher, my field of expertise includes <code><b>Web Dev/Pentesting, Exploit Development, VAPT, Red Teaming etc.</b></code> I am currently working in Cloud Automation and Architecture in <b>VMWare Tanzu</b></em><br /><br />
   <img src=https://img.shields.io/badge/lang-python-f39f37 align=center /> <img src=https://img.shields.io/badge/lang-BASH-65FF33 align=center /> <img src=https://img.shields.io/badge/lang-PHP-2A9CCF align=center /> <img src=https://img.shields.io/badge/Penetration-testing-FE170C align=center />
 </p>
 
