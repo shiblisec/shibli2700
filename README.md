@@ -3,7 +3,7 @@
   <a href= "https://www.linkedin.com/in/mohd.shibli/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
   <a href= "https://medium.com/@d3f4u17"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
   <a href= "https://twitter.com/_d3f4u17_"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
-  &nbsp;<img width=200 src="http://www.hackthebox.eu/badge/image/95622" alt="Hack The Box">
+  &nbsp;<img width=200 src="http://www.hackthebox.eu/badge/image/95622" alt="HackTheBox">
 </p>
 <h3 align=center><em>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is <b>Mohd Shibli</b></em></h1>
 <p align=center>
